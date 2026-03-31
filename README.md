@@ -9,7 +9,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0E75B6&center=true&vCenter=true&width=435&lines=React+%26+Next.js+Expert;TypeScript+Lover;.NET+Core+%26+C%23+Dev;Scalable+Solutions+Builder" alt="Typing SVG" />
   </p>
 
-  <img src="https://komarev.com/ghpvc/?username=yusif017&label=Profile%20views&color=0e75b6&style=flat-square" alt="yusif017" />
+  <img src="https://komarev.com/ghpvc/?username=yus1fo17&label=Profile%20views&color=0e75b6&style=flat-square" alt="yus1fo17" />
 </div>
 
 ---
@@ -23,7 +23,6 @@ I also have experience in back-end development, APIs, Docker, and deployment pro
 ---
 
 ### 🔭 Current Focus
-* **Current Project:** [Seblife](https://seblife.az) – Building a high-performance Ecommerce ecosystem.
 * **Learning:** Deep diving into **Node.js**, **Microservices Architecture**, and **Advanced EF Core** patterns.
 * **Ask me about:** React, Next.js, .NET Core, and Secure Payment Gateway Integrations.
 
@@ -51,26 +50,58 @@ I also have experience in back-end development, APIs, Docker, and deployment pro
 
 ### 🛠 Tech Stack & Tools
 
+**Frontend**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,bootstrap,html,css,sass" alt="Frontend" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,sass,tailwind,bootstrap,materialui,styledcomponents,vite" alt="Frontend" />
 </p>
 
+**Backend & Database**
 <p align="left">
   <img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,express,mysql,postgres" alt="Backend" />
 </p>
 
+**State Management & Auth**
+
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-000000?style=flat-square&logo=react&logoColor=white)
+![React Query](https://img.shields.io/badge/React_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white)
+![NextAuth](https://img.shields.io/badge/NextAuth-000000?style=flat-square&logo=next.js&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+
+**Mobile & Desktop**
+
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
+
+**DevOps & Tools**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,redux,electron" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=docker,nginx,git,github,vscode,npm,yarn" alt="DevOps" />
 </p>
 
-**More:** Redux Toolkit · Zustand · React Query · Next-Auth · JWT · i18n · SSR · SSG · WebSocket · Nginx · Vite · Expo
+**Payment Systems**
+
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
+![Opayo](https://img.shields.io/badge/Opayo-003087?style=flat-square&logoColor=white)
+![Payriff](https://img.shields.io/badge/Payriff-0066CC?style=flat-square&logoColor=white)
+![Odero](https://img.shields.io/badge/Odero-FF6600?style=flat-square&logoColor=white)
+![Shift4](https://img.shields.io/badge/Shift4-1A1A1A?style=flat-square&logoColor=white)
+
+**Other**
+
+![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=socket.io&logoColor=white)
+![i18n](https://img.shields.io/badge/i18n-26A69A?style=flat-square&logoColor=white)
+![SSR](https://img.shields.io/badge/SSR-000000?style=flat-square&logo=next.js&logoColor=white)
+![SSG](https://img.shields.io/badge/SSG-000000?style=flat-square&logo=next.js&logoColor=white)
+![OpenLayers](https://img.shields.io/badge/OpenLayers-1F6B75?style=flat-square&logoColor=white)
+![ES6+](https://img.shields.io/badge/ES6+-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 ---
 
 ### 📊 GitHub Stats
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yusif017&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusif017&layout=compact&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yus1fo17&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yus1fo17&layout=compact&theme=tokyonight" />
 </div>
 
 ---
