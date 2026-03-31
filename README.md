@@ -49,44 +49,6 @@ I also have experience in back-end development, APIs, Docker, and deployment pro
 
 ---
 
-### 💼 Key Expertise & Projects
-
-<details open>
-<summary><b>🔥 Featured Platforms (Fintech & Complex Systems)</b></summary>
-<br/>
-
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **Payment Service** | Multi-provider platform (Stripe, Opayo, Shift4) with real-time webhooks, refund management and PCI-aware handling. | C#, .NET, Docker, Nginx, JWT, SQL Server |
-| **Bidlogiq** | US Tender management platform with NAICS categorization, vendor profiles, bid submissions and location-based filtering. | C#, .NET, EF Core, Next.js, REST API, JWT |
-| **Logix Document Reader** | Internal AI-powered document reader system for data extraction. | AI, .NET, MSSQL, React |
-| **Locix-Chat** | Real-time messaging platform supporting multimedia sharing (images, videos, audio, PDFs). | React, TypeScript, Tailwind CSS, WebSocket |
-| **Locix-Payment Service** | Internal multi-provider payment service. | Opayo, Payriff, .NET, MSSQL |
-| **Cafetti** *(Suspended)* | Microservices-based food delivery with Electron.js desktop app and OpenLayers map integration. | Next.js, Electron.js, OpenLayers, Microservices |
-</details>
-
-<details>
-<summary><b>🌐 E-commerce & Promotional Portfolio</b></summary>
-<br/>
-
-| Project | Type | Technologies |
-| :--- | :--- | :--- |
-| **Smile Tour** | E-commerce | Next.js, React, TypeScript, Tailwind CSS |
-| **Seblife** | E-commerce *(In progress)* | Next.js, React, TypeScript, Tailwind CSS |
-| **Sepcatering** | E-commerce + Payment | Opayo |
-| **Wholesalecatering** | E-commerce + Payment | Stripe |
-| **Aristokrat Travel** | E-commerce + Payment | Payriff |
-| **Texno Global** | Corporate | Next.js, React, TypeScript, Tailwind CSS |
-| **Ground Technical Support** | Corporate | Next.js, React, TypeScript, Tailwind CSS |
-| **Bonamed** | Corporate | Next.js, React, TypeScript, Tailwind CSS |
-| **Azerbaijan Tour** | Corporate | Next.js, React, TypeScript, Tailwind CSS |
-| **Web Console Studio** | Corporate | Next.js, React, TypeScript, Tailwind CSS |
-
-* **Focus:** SEO Optimization, N-Tier Architecture, Responsive Design.
-</details>
-
----
-
 ### 🛠 Tech Stack & Tools
 
 <p align="left">
