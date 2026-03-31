@@ -1,12 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=200&section=header&text=Hi%20👋,%20I'm%20Yusif&fontSize=70&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&text=Yusif%20Atababayev&fontSize=60&fontColor=ffffff&animation=fadeIn&desc=Frontend%20%26%20Full-Stack%20Developer&descSize=22&descAlignY=75&descAlign=50" />
 </div>
 
 <div align="center">
-  <h3>🚀 Front-end & Full-stack Developer | .NET Developer | React Enthusiast</h3>
-  
   <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0E75B6&center=true&vCenter=true&width=435&lines=React+%26+Next.js+Expert;TypeScript+Lover;.NET+Core+%26+C%23+Dev;Scalable+Solutions+Builder" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0E75B6&center=true&vCenter=true&width=500&lines=React+%26+Next.js+Expert;TypeScript+%7C+JavaScript+%7C+C%23;.NET+Core+%26+Full-Stack+Dev;Payment+Gateway+Integrations;Scalable+Solutions+Builder" alt="Typing SVG" />
   </p>
 
   <img src="https://komarev.com/ghpvc/?username=yus1fo17&label=Profile%20views&color=0e75b6&style=flat-square" alt="yus1fo17" />
@@ -117,6 +115,8 @@ I also have experience in back-end development, APIs, Docker, and deployment pro
 <p align="left">
   <a href="mailto:yusif.atababayev.o17@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://linkedin.com/in/yusif-atababayev"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://discord.com/users/yusif.o17"><img src="https://img.shields.io/badge/Discord-yusif.o17-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+  <a href="https://www.npmjs.com/settings/yusif017/packages"><img src="https://img.shields.io/badge/npm-yusif017-CB3837?style=for-the-badge&logo=npm&logoColor=white" /></a>
 </p>
 
 <div align="center">
